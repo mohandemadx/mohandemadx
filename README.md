@@ -1,43 +1,46 @@
-# Hi, I'm Mohand Attia 👋
+# Hi, I'm Mohand Attya 👋
 
-**Biomedical Engineer | AI & Software Developer**  
-Graduated from Cairo University with a degree in Systems and Biomedical Engineering (GPA 3.5). I specialize in Machine Learning, Deep Learning, computer vision, and building full-stack web applications with Python.
-
+**Systems & Biomedical Engineer | AI & Medical Imaging Specialist**  
+Systems and Biomedical Engineering graduate from Cairo University (GPA: 3.5/4) specializing in Artificial Intelligence, Medical Image Segmentation, and full-stack software development.
 ---
 
-## 🚀 Graduation Project
-* **[Project Name / Title Here]**  
-  * **Overview:** Brief description of your graduation project (e.g., hardware/software integration, data processing pipeline, or diagnostic model).
-  * **Tech Stack:** C++, Python, Signal/Image Processing, Hardware integration.
-  * **Impact/Results:** Key outcome, performance metrics, or prototype achievements.
+## 🚀 Featured Graduation Project
+### 🏥 TherAInostics: Web-Based Deep Learning System for Lu-PSMA Therapy
+* **Overview:** Developed and evaluated 3 state-of-the-art deep learning pipelines for PET/CT medical image analysis to automate and enhance physician tracking in prostate cancer.
+* **Key Achievements:**
+  * **Attention UNet** for prostate segmentation (0.85 Dice)
+  * **3D UNet** for lesion segmentation (0.67 Dice)
+  * **ResNet50** for lesion classification (73% accuracy)
+* **Integration:** Integrated models into an intuitive DICOM viewer, enabling seamless visualization and workflow integration with PACS in hospitals and clinics.
+* **Tech Stack:** MONAI, Python, PyTorch, OHIF, Orthanc
 
 ---
 
 ## 💻 Key Projects
 
-### 🏥 Healthcare & AI Solutions
-* **Medical Image Segmentation & Classification Pipelines**  
-  * Built deep learning models using Python and PyTorch/TensorFlow to segment and classify clinical images.
-* **Flask Course Management & Tracking Portal**  
-  * Full-stack web application built with Flask, SQLAlchemy, and PostgreSQL/SQLite, featuring administrative tools for automated gradebook processing.
-
-### 🛠️ Systems & Interactive Apps
-* **Desktop Application & Computer Vision Tools**  
-  * Native desktop utilities built using C++ and computer vision libraries.
-* **Python Educational Mini-Games & Demos**  
-  * Curriculum projects developed with pure Python and Turtle graphics for interactive instruction.
-
----
+* **Face Recognition Attendance Web System (IoT Project)**  
+  * Developed an IoT system using ESP32-CAM and ESP8266, integrated with a web app to automatically track lecture hall attendance via facial recognition.  
+  * *Tools:* C, HTML, JavaScript, FastAPI, ArcFace, OpenCV
+* **SanOris: Dental Management System (HIS Project)**  
+  * Implemented robust authentication tools for sign-in and sign-out pages within a comprehensive dental hospital information system.  
+  * *Tools:* Vite React, TypeScript, Node.js, Express.js, MySQL, Docker, Zustand, Prisma, Firebase
+* **FourierBlend Studio: Desktop-Based Image Mixer (DSP Project)**  
+  * Developed a desktop application for advanced image mixing and frequency domain manipulation.  
+  * *Tools:* FFT, Image Processing, Pillow, PyQt
 
 ## 🛠️ Technical Skills
 
-| Domain | Tools & Technologies |
+| Domain | Technologies & Tools |
 |---|---|
-| **Languages** | Python, C++, SQL |
-| **AI & ML Frameworks** | PyTorch, TensorFlow, OpenCV, pandas, NumPy, scikit-learn |
-| **Web & Backend** | Flask, SQLAlchemy, Werkzeug, Gunicorn, PostgreSQL |
-| **Engineering & Sim** | SolidWorks, Proteus, Simulink |
-| **Tools & Platforms** | Git, GitHub, Linux, Jupyter |
+| **Medical Imaging & AI** | PET/CT, DICOM, PACS, OHIF, Orthanc, MONAI, PyTorch, OpenCV, UNet, Attention UNet, ResNet, YOLO, SAM, MedSAM, Keras |
+| **Systems & Software** | Python, TypeScript, SQL, Bash, React, Node.js, Flask, Express, FastAPI, Docker, MySQL, Firebase |
+| **Embedded & Hardware** | C/C++, ARM, ESP8266 & ESP32, Embedded Systems, CMake |
+
+---
+
+## 📜 Certifications & Scores
+* **IELTS Academic Certification:** Overall Band Score 7.5
+* **LangChain Certified Agent Engineer** in progress
 
 ---
 
@@ -48,5 +51,7 @@ Graduated from Cairo University with a degree in Systems and Biomedical Engineer
 ---
 
 ## 📫 Connect with Me
-* 🌐 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
-* 📧 **Email:** [your-email@example.com](mailto:your-email@example.com)
+* 📧 **Email:** [mohand.attya02@eng-st.cu.edu.eg](mailto:mohand.attya02@eng-st.cu.edu.eg)
+* 📱 **Phone:** +(20) 101 034 4756
+* 🌐 **LinkedIn:** [Mohand Emad](https://www.linkedin.com/in/mohand-emad/)
+* 🐙 **GitHub:** [mohandemadx](https://github.com/mohandemadx)
